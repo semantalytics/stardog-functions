@@ -47,7 +47,7 @@
     <properties>
         <stardog.major.version>7</stardog.major.version>
         <stardog.version>${stardog.major.version}.6.0</stardog.version>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <slf4j.version>1.7.21</slf4j.version>
         <jansi.version>1.16</jansi.version>
         <geo.version>0.7.1</geo.version>
