@@ -54,7 +54,7 @@
         <assertj.version>3.15.0</assertj.version>
         <xmlapis.version>1.4.01</xmlapis.version>
         <maven.version>3.3.9</maven.version>
-        <guava.version>23.3-jre</guava.version>
+        <guava.version>29.0-jre</guava.version>
         <commons-text.version>1.7</commons-text.version>
         <commons-lang3.version>3.9</commons-lang3.version>
         <emoji4j.version>5.0</emoji4j.version>
